@@ -1,0 +1,9 @@
+# Project exclude paths
+/AS/target/
+/client-fx/target/
+/DES/target/
+/Download_Server/target/
+/RSA/target/
+/TEST/target/
+/TGS/target/
+/Upload_Server/target/
